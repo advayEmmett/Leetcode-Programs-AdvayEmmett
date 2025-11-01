@@ -39,5 +39,5 @@ Language can be any, but the concept and technique remain same **always**.
 
 If you want to discuss algorithms or Java optimization ideas or any help, feel free to connect or open issues!
 
-Youtube: [CE Advay Emmett](http://www.youtube.com/@advayemmett)<br>
-GitHub: [AdvayEmmett](https://github.com/advayEmmett/Leetcode-Programs-AdvayEmmett)
+Youtube: [CE Advay Emmett](http://www.youtube.com/@ce-advayemmett)<br>
+GitHub: [AdvayEmmett](https://github.com/advayEmmett)
